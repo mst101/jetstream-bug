@@ -52,6 +52,10 @@ const logout = () => {
                                     Dashboard
                                 </NavLink>
                             </div>
+
+                            <div class="hidden w-72 space-x-8 sm:-my-px sm:ms-10 sm:flex">
+                                <input class="text-xs w-full" type="text" value="Change this text, then click between pages...">
+                            </div>
                         </div>
 
                         <div class="hidden sm:flex sm:items-center sm:ms-6">
